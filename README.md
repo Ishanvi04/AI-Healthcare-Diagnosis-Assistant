@@ -1,5 +1,8 @@
 🧠 AI-Based Healthcare Diagnosis Assistant
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ishanvi04/AI-Healthcare-Diagnosis-Assistant/blob/main/AI_Healthcare_Diagnosis_Assistant.ipynb)
+
+
 An intelligent machine learning system that predicts possible diseases based on patient-reported symptoms and provides confidence-based results to assist in early medical decision-making.
 
 📌 Project Overview
@@ -50,9 +53,9 @@ Decision Tree	95.56%	0.956	—
 Random Forest	100%	1.00	1.00
 
 🛠 Technologies Used
-Python
-Pandas, NumPy
-Scikit-learn
-Matplotlib
-Google Colab
+Python,
+Pandas, NumPy,
+Scikit-learn,
+Matplotlib,
+Google Colab,
 GitHub
